@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use EvoSolve in teaching or a project, please cite this repository."
+title: "EvoSolve: Genetic Algorithm Optimization Studio"
+type: software
+version: 1.0.0
+date-released: 2026-10-24
+abstract: "An interactive static web application for learning genetic algorithm optimization."
+license: MIT
+repository-code: "https://github.com/YOUR-GITHUB-USERNAME/evosolve"
