@@ -12,7 +12,7 @@
   <img alt="No dependencies" src="https://img.shields.io/badge/dependencies-none-14b8a6">
 </p>
 
-> **Live demo:** After enabling GitHub Pages, replace this line with your published URL: `https://YOUR-GITHUB-USERNAME.github.io/evosolve/`
+> **Live demo:** After enabling GitHub Pages, replace this line with your published URL: `https://rathoreniranjan18-beep.github.io/evosolve/`
 
 ## What is EvoSolve?
 
